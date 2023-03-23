@@ -1,2 +1,5 @@
-# alx-low_level_programming
-alx-low_level_programming
+#!/bin/bash 
+0x00-hello_world 
+
+
+hello world
